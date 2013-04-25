@@ -27,3 +27,7 @@ If you can afford to set up a seperate DNS server or have spare resolvers on you
  
  
  
+Methods outlined so far have all relied on NMAP working through IP ranges. The reverse of this is to work out hostnames and validate if they exist via DNS.
+
+
+Take a look at https://github.com/vahidhedayati/launch-jconsole  for a how to do network discovery using hostname variations
